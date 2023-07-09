@@ -4,7 +4,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $file = $_FILES["file"];
 
   // Configure your email settings
-  $to = "recipient@example.com";
+  $to = "raitaauzkalns@outlook.com";
   $subject = "File Upload";
   $message = "A file has been uploaded. Please find it attached.";
 
